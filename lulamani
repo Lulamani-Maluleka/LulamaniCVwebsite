@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    .section {
+      margin-bottom: 30px;
+    }
+
+    .section h2 {
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 10px;
+    }
+
+    .section p {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>LULAMANI MALULEKA</h1>
+
+  <div class="section">
+    <h2>SUMMARY</h2>
+    <p>I am a hardworking, determined and keen individual who enjoy new challenges. I am
+never satisfied; I always look up to new challenges and always want to do better. I have
+comprehensive understanding of Software development life cycle, database design and
+administration, business analysis and modelling, mobile development, software
+development and software testing. I can work effectively both in a team and as well on
+my own..</p>
+  </div>
+
+  <div class="section">
+    <h2>EDUCATIONAL QUALIFICATIONS</h2>
+    <p>01/2019 – 09/2022 : TSHWANE UNIVERSITY of TECHNOLOGY: NATIONAL DIPLOMA IN INFORMATION TECHNOLOGY –
+ (INTELLIGENT INDUSTRIAL SYSTEMS)</p>
+    <p>2018 : HATLANI MUYEXE HIGH SCHOOL – NSC/ GRADE 12</p>
+  </div>
+
+  <div class="section">
+    <h2>WORK EXPERIENCE</h2>
+    <h3>Software Tester - Omnicor</h3>
+    <p>Responsibilities:</p>
+    <ul>
+      <li>Test Analyst on Role-fit Platform, SNV Plastics, 360° System, Smart React, BMF
+& Selection Blueprint.</li>
+      <li>Analyze and understand the issue requirements.</li>
+      <li>Write up detailed test cases and report on JIRA.</li>
+      <li>Proactively identify bugs and possible enhancements to the system.</li>
+      <li>Report Bugs to the Software Developers.</li>
+      <li>Perform end-to-end testing of system modules.</li>
+      <li>Assess system integrity through testing of related functionality.</li>
+      <li>Attend meetings to discuss new system requirements and provide effective
+feedback.</li>
+      <li>Perform effective usability and User experience testing.</li>
+      <li>GET & Post data using Postman for API Testing.</li>
+      <li>Automation Testing on Selenium.</li>
+
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>SKILLS</h2>
+    <ul>
+      <li>C++</li>
+      <li>C#</li>
+      <li>Jira</li>
+      <li>SDLC and STLC </li>
+      <li>APi Testing (Postman)</li>
+      <li>Rolefit</li>
+      <li>Microsoft Office Packages</li>
+      <li>TRELLO</li>
+      <li>PHP</li>
+      <li>Configuration and Troubleshootingdesktop computers</li>
+      <li>Arduino</li>
+      <li>OOP</li>
+      <li>DevOps</li>
+      <li>Agile</li>
+    </ul>
+  </div>
+  
+  <div class="section">
+    <h2>SHORT COURCES</h2>
+    <ul>
+      <li>Software Testing Certificate from Udemy</li>
+      <li>Basic web development with HTML</li>
+      <li>Software Testing bootcamp from Geeks4Learning</li>
+      <li>AWS bootcamp from Girlscode</li>
+      <li>APi Testing (Postman)</li>
+    </ul>
+  </div>
+  
+
+  <div class="section">
+    <h2>CONTACT</h2>
+    <p>Email: malulekalulamani6@gmail.com</p>
+    <p>Phone: 0603090108</p>
+  </div>
+  
+  <div class="section">
+    <h2>REFERENCES</h2>
+    <li>Mr. VN Rank
+Former TUT Lecturer
+(012) 382 9112/9938</p>
+    <li>OMNICOR (Pty) Ltd.
+HR
+(011) 483 0106
+</p>
+<li>Mr. J Ngobeni
+Former High School Principal
+079 205 4654</p>
+  </div>
+  
+</body>
+</html>
